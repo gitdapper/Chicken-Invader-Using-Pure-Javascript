@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    overflow: hidden;
+}
+
+#canvasBoard {
+    background: url('/images/SpaceBackground.jpg') center center;
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+}
